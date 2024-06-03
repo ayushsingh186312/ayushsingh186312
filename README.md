@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ritik Jha</h1>
-<h3 align="center">Full Stack and a Flutter developer</h3>
+<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
+<h3 align="center">Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikjha93&label=Profile%20views&color=0e75b6&style=flat" alt="ritikjha93" /> </p>
 
-- 🌱 I’m currently learning **DSA and Web Dev**
+- 🌱 I’m currently learning **FULL STACK WEB DEV**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ritikjha93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ritikjha93" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayush-singh-a653361a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-jha-855363220" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.rj___93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.rj___93" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-singh-a653361a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushsingh186312" height="30" width="40" /></a>
+<a href="https://instagram.com/ayushsingh12595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushsingh186312" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
