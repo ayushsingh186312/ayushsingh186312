@@ -11,8 +11,8 @@
 🌱 I’m currently learning Full Stack Developement <br>
 💞️ I’m looking to collaborate on Web Application Projects <br>
 📫 Feel free to reach out or check out my repositories to see my work! <br>
-📫 You Can Contact me on <a href="mailto:ayushsingh186312@gmail.com" target="_blank">ayushsingh186312@gmail.com </a><br>
-📫 M: <a href="tel:+917667999620" target="_blank">7667999620</a> <br>
+📫 You Can Contact me on <a href="mailto:ayushsingh@gmail.com" target="_blank">ayushsingh@gmail.com </a><br>
+📫 M: <a href="tel:" target="_blank"></a> <br>
 </h4>
   </div>
 <br>
